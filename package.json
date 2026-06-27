@@ -52,6 +52,8 @@
   "dependencies": {
     "@huggingface/transformers": "^4.2.0",
     "better-sqlite3": "^12.11.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "tree-sitter-wasms": "^0.1.13",
     "web-tree-sitter": "^0.24.7"
   },
