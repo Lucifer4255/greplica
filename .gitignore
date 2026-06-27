@@ -5,4 +5,4 @@ memory-workbench/
 __pycache__/
 *.pyc
 .DS_Store
-.env.local
+config.bat
